@@ -40,4 +40,4 @@ The smart contract is written in Solidity and includes the following core functi
 
 ## Conclusion
 
-This blockchain-based supply chain tracking system provides a transparent and immutable record of product movements, enhancing trust and accountability within the supply chain. Feel free to extend and customize the smart contract to fit specific use cases and requirements.
+This blockchain-based supply chain tracking system provides a transparent and immutable record of product movements, enhancing trust and accountability within the supply chain. 
