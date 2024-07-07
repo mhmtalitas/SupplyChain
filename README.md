@@ -1,6 +1,12 @@
 # SupplyChain
 # Blockchain-Based Supply Chain Tracking System
 
+# Contract Adress
+https://sepolia.scrollscan.com/address/0xd6e539737e8c4b307e3eecbc6fed05d61a809ad9
+# Contract Owner Adress
+0x04b9223eC319Ccbe896ac5a0503621D470600A2a
+
+
 ## Introduction
 
 This project is a blockchain-based supply chain tracking system designed to monitor the movement of goods through the supply chain, ensuring transparency and provenance. The system leverages the capabilities of the Scroll blockchain to provide a decentralized and tamper-proof record of product history.
